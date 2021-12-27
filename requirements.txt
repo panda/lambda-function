@@ -1,0 +1,2 @@
+# requirements
+boto3==1.20.26

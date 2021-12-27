@@ -1,0 +1,24 @@
+{
+    "transactions": [
+        {
+            "transType": "PURCHASE",
+            "amount": 5.00
+        },
+        {
+            "transType": "PURCHASE",
+            "amount": 50.00
+        },
+        {
+            "transType": "PURCHASE",
+            "amount": 50.00
+        },
+        {
+            "transType": "PURCHASE",
+            "amount": 50.00
+        },
+        {
+            "transType": "PURCHASE",
+            "amount": 50.00
+        }
+    ]
+}
